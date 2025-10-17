@@ -6,3 +6,6 @@
 
 # VS Code
 .vscode/
+
+# Ignore CP tool files
+*.cph
