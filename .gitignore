@@ -9,3 +9,6 @@
 
 # Ignore CP tool files
 *.cph
+
+# Ignore CP tool files
+*.cph
